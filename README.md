@@ -1,5 +1,7 @@
 # Dispatcharr Channel Status GUI
 
+![image](https://github.com/user-attachments/assets/783612cc-7654-4157-aec8-fc5df5049002)
+
 A modern, robust based GUI for monitoring and analyzing Dispatcharr IPTV channels.
 
 ## Features
