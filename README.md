@@ -9,8 +9,6 @@ A modern, robust based GUI for monitoring and analyzing Dispatcharr IPTV channel
 - Persistent right-panel channel preview with image and info
 - Channel information tab: STATUS, CODEC, RESOLUTION, FPS
 - EPG "Now Playing" display (auto-matches by channel name, robust to missing data)
-- No popups: all previews and info are in the main window
-- No logo/history/right-click/CSV/Excel features (fully removed)
 - Analyze channels in-place (rows are never removed)
 - Progress bar for analyze operations (not for EPG)
 - Robust error handling and status reporting
